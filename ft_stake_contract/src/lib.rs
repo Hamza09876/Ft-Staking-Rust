@@ -61,7 +61,7 @@ pub fn process_instruction(
     let vault_word = "vault";
 
     let admin = "HRqXXua5SSsr1C7pBWhtLxjD9HcreNd4ZTKJD7em7mtP".parse::<Pubkey>().unwrap();
-    let reward_mint = "AFBVFKJ6SZaNC2dgxaR2UyhZ91exHF7NHgwhJNp1nqHe".parse::<Pubkey>().unwrap();
+    let reward_mint = "Ee3zY42yQe8zhzVPxiME2WPJWBgtLv32poJVae4W5MxH".parse::<Pubkey>().unwrap();
 
     match instruction{
         StakeInstruction::Unstake=>{

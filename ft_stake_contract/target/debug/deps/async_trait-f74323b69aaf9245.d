@@ -1,0 +1,11 @@
+/Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_contract/target/debug/deps/libasync_trait-f74323b69aaf9245.dylib: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/args.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/bound.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/expand.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/lifetime.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/parse.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/receiver.rs
+
+/Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_contract/target/debug/deps/async_trait-f74323b69aaf9245.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/args.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/bound.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/expand.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/lifetime.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/parse.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/receiver.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/args.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/bound.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/expand.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/lifetime.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/parse.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.61/src/receiver.rs:

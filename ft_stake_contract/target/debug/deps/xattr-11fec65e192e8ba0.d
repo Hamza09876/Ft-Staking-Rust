@@ -1,0 +1,10 @@
+/Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_contract/target/debug/deps/xattr-11fec65e192e8ba0.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_contract/target/debug/deps/xattr-11fec65e192e8ba0.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs:

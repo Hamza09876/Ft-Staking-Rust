@@ -1,0 +1,1 @@
+/Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_contract/target/bpfel-unknown-unknown/release/staking.so: /Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_contract/src/lib.rs
