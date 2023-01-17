@@ -1,0 +1,9 @@
+/Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_client/target/debug/deps/rusticata_macros-bc0c38925feb52bf.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/combinator.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/debug.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/macros.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/traits.rs
+
+/Users/macbookpro/Desktop/Blockchain/native-rust-contracts/ft_staking/ft_stake_client/target/debug/deps/rusticata_macros-bc0c38925feb52bf.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/combinator.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/debug.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/macros.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/traits.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/combinator.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/debug.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/macros.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/rusticata-macros-4.1.0/src/traits.rs:
