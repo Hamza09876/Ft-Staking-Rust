@@ -1,20 +1,66 @@
-Token creation 
-First of All we have to create a token that can be staked to contract and can be given as reward.
-1) spl-token create-token --decimals
-2) spl-token create-account <token>
-3) spl-token mint <token>
-Need to change variable value in contract:
-In Admin add your keypair Pubkey as it will be controller of your vault generation.
-In reward mint add token which will contract hold and give in reward
-Deploy Contract by compiling
-1) cargo build-bpf
-2) solana program deploy /ft_staking/ft_stake_contract/target/deploy/staking.so
-Client side:
-Edit and compile client side
-1)need to change program_id
-2)need to change reward_mint
-Will run commands for Vault generation by using Admin keypair
-1)staking-tokens-client generate_vault_address -e dev -s <keypair.json> --min_lock_period <seconds>
-With some other wallet that have same tokens in it.
-2)staking-tokens-client stake -s <keypair.json> -e dev -a <token-amount> -l 2
-3)staking-tokens-client unstake -s <keypair.json> -e dev
+# Token Staking Contract
+
+This repository contains the smart contract and client-side tools for creating and staking tokens in a staking vault.
+
+## Token Creation
+
+1. **Create Token:**
+    ```bash
+    spl-token create-token --decimals
+    ```
+
+2. **Create Token Account:**
+    ```bash
+    spl-token create-account <token>
+    ```
+
+3. **Mint Tokens:**
+    ```bash
+    spl-token mint <token>
+    ```
+
+## Contract Configuration
+
+1. **Admin Key Pair:**
+    - Add your key pair public key as the controller of the vault generation in the contract.
+
+2. **Reward Mint:**
+    - Add the token that the contract holds and gives as a reward.
+
+## Deploy Contract
+
+1. **Compile:**
+    ```bash
+    cargo build-bpf
+    ```
+
+2. **Deploy Contract:**
+    ```bash
+    solana program deploy /ft_staking/ft_stake_contract/target/deploy/staking.so
+    ```
+
+## Client Side
+
+1. **Edit and Compile Client Side:**
+    - Change the `program_id`.
+    - Change the `reward_mint`.
+
+2. **Vault Generation (Client Side):**
+
+    a. **Generate Vault Address (with Admin Key Pair):**
+        ```bash
+        staking-tokens-client generate_vault_address -e dev -s <keypair.json> --min_lock_period <seconds>
+        ```
+
+    b. **Stake Tokens:**
+        ```bash
+        staking-tokens-client stake -s <keypair.json> -e dev -a <token-amount> -l 2
+        ```
+
+    c. **Unstake Tokens:**
+        ```bash
+        staking-tokens-client unstake -s <keypair.json> -e dev
+        ```
+
+**Note:** Replace placeholders such as `<token>`, `<keypair.json>`, `<token-amount>`, etc., with actual values.
+
